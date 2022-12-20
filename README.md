@@ -8,5 +8,6 @@ This game reimplementation was made with [Eclipse](https://www.eclipse.org/) and
 
 # Demo
 
-https://user-images.githubusercontent.com/112869026/208756274-6f7f8809-7ab5-443a-a092-eabb77f7770d.mp4
+https://user-images.githubusercontent.com/112869026/208760652-ce658406-e28b-4744-9b5b-005c5b32f4e5.mp4
+
 Demo - Infinite road mod.
