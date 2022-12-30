@@ -4,7 +4,7 @@ A reimplementation of the famous game Frogger. There are two different mods : ca
 
 # Development
 
-This game reimplementation was made with [Eclipse](https://www.eclipse.org/) and programmed in Java. It was made over the course of two months as a university project in second year of Computer Science.
+This game reimplementation was made with [Eclipse](https://www.eclipse.org/) and programmed in Java. It was made over the course of 1 month and a half as a university project in second year of Computer Science.
 
 # Demo
 
